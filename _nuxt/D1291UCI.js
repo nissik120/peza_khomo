@@ -1,0 +1,1 @@
+import{C as t,D as r}from"./WmQ4KFV4.js";const d=()=>{const a=t("authUser",()=>null),s=t("authStatus",()=>!0),n=t("loadingStatus",()=>!1);r(()=>{});async function u(c,i){}async function o(c,i,l){}async function e(){}return{authUser:a,authStatus:s,loadingStatus:n,handleLogin:u,handleRegistration:o,handleLogout:e}};export{d as u};
