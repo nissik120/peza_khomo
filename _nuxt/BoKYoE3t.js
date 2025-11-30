@@ -1,0 +1,1 @@
+import{_ as n,c as s,o,a as t}from"./B3j1_mB3.js";const r={},_={class:"text-center py-6"};function a(c,e){return o(),s("div",_,[...e[0]||(e[0]=[t("h2",null,"No items found!",-1),t("p",null,"Please try refreshing or adjusting your filters.",-1)])])}const l=Object.assign(n(r,[["render",a]]),{__name:"BaseItemNotFound"});export{l as _};
