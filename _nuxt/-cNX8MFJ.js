@@ -1,0 +1,1 @@
+import{M as a,Z as h}from"./BogysZ3r.js";const d=()=>{const n=a("authUser",()=>null),s=a("authStatus",()=>!1),u=a("loadingStatus",()=>!1);h(()=>{});async function e(t){s.value=t}async function o(t,l){}async function c(t,l,r){}async function i(){}return{authUser:n,authStatus:s,loadingStatus:u,setAuthStatus:e,handleLogin:o,handleRegistration:c,handleLogout:i}};export{d as u};
